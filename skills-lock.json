@@ -6,6 +6,12 @@
       "sourceType": "github",
       "computedHash": "1d2aa0d3cfa03501af8656283631b61f572f6458ed7958f232f8acd5601386fa"
     },
+    "impeccable": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "skillPath": "skill/SKILL.md",
+      "computedHash": "8cdf2e788eaca3af7d02026ef9cec55b506100a00d130f938e3fb1ad669c0ad0"
+    },
     "ink": {
       "source": "vercel-labs/json-render",
       "sourceType": "github",
