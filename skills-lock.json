@@ -21,6 +21,11 @@
       "source": "msmps/opentui-skill",
       "sourceType": "github",
       "computedHash": "2915038bb3297e759f740f9e6bfa885ed80a4a7fe945825f5874b48db9ce0fd2"
+    },
+    "video-use": {
+      "source": "browser-use/video-use",
+      "sourceType": "github",
+      "computedHash": "37b24f7ec55473996c3eecd5ffb4d62ee4021f2c9bc947da49483cc5c65fe4eb"
     }
   }
 }
